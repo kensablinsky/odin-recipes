@@ -1,8 +1,16 @@
 div {
     text-align: center;
-    list-style-position:inside
 
 }
-h2 {
-    text-align: center;
+button {
+    
+    padding: 10px 20px;
+    font-size: 20px;
+    border: 2px solid black;
+    
+}
+button:hover {
+    background-color:lightseagreen;
+
+    transition: 0.5s
 }
